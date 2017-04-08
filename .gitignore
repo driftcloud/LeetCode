@@ -1,6 +1,6 @@
 # directories
-/out
-/.idea
+/out/
+/.idea/
 
 # Windows image file caches
 Thumbs.db
