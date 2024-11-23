@@ -1,6 +1,7 @@
 # directories
 /out/
 /.idea/
+*.dSYM/
 
 # Windows image file caches
 Thumbs.db
