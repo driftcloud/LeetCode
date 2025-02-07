@@ -29,6 +29,8 @@ $RECYCLE.BIN/
 # OSX
 # =========================
 
+main
+
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -50,3 +52,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
